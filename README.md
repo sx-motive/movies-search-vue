@@ -1,35 +1,23 @@
-# vue-movies
+# Movies search with Vue & IMDb API
 
-This template should help get you started developing with Vue 3 in Vite.
+A very simple template for a movie and series search page made with Vue and IMDb. This site has been created for educational purposes only. All trademarks belong to their respective owners. This project is not commercial, for informational purposes only. 😸
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<img src='https://github.com/sx-motive/vue-movies/blob/master/public/main-screen.png' alt='vue based movies search' />
 
 ## Project Setup
 
 ```sh
-npm install
+
+1. git clone ....
+
+2. npm install
+
+3. get your dev keys via [OMDbApi](https://www.omdbapi.com/)
+
+4. npm run dev
+
 ```
 
-### Compile and Hot-Reload for Development
+## Thanks for watching!
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+Thank you for your interest in the project, if you want to contact the author, then I'm always in touch [Denis Kunitsyn](https://t.me/sxmotive)
